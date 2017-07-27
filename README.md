@@ -1,6 +1,8 @@
 # DropDownButtonLib
 The DropDownButtonLib project supplies MVVM/WPF drop down controls that are based on a button. 
 
+Download from [nuget](https://preview.nuget.org/packages/Dirkster.DropDownButtonLib/)
+
 There are sample screenshot on the Codeplex site from were this project is migrated from:
 https://dropdownbuttonlib.codeplex.com/
 
