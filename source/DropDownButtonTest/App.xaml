@@ -10,17 +10,21 @@
                     <Color x:Key="AccentColor" >#ff3399ff</Color>
                 </ResourceDictionary>
 
-                <!--
-          Note: Comment out all ResourceDictionary references to activate the generic theme.
-                This forces WPF to load the definitions at: "/DropDownButtonLib;component/Themes/Generic.xaml"
+<!--
+      Note: Comment out all ResourceDictionary references to activate the generic theme.
+            This forces WPF to load the definitions at: "/DropDownButtonLib;component/Themes/Generic.xaml"
 
-          Activate each available theme by commenting in 1 of the resource dictionaries below.
-          Metro themes are otptimized for Edi (edi.codeplex.com) so they may not look nice here
-          in the test application but are working OK. Review Edi to get a better impression about these themes.
-        -->
+      Activate each available theme by commenting in 1 of the resource dictionaries below.
+      Metro themes are otptimized for MLib and Edi:
+      https://github.com/Dirkster99/MLib
+      https://github.com/Dirkster99/Edi
 
-                <ResourceDictionary Source="/DropDownButtonLib;component/Themes/MetroDark.xaml" />
-                <!-- ResourceDictionary Source="/DropDownButtonLib;component/Themes/MetroLight.xaml" / -->
+      so they may not look nice here in the test application but are working OK.
+      Review Edi to get a better impression of these themes.
+-->
+
+                <!--ResourceDictionary Source="/DropDownButtonLib;component/Themes/MetroDark.xaml" /-->
+                <ResourceDictionary Source="/DropDownButtonLib;component/Themes/MetroLight.xaml" />
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
 
