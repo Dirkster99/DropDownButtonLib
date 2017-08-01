@@ -23,7 +23,10 @@
         Insert a <TextBlock FontWeight="Bold">ResourceDictionary</TextBlock> reference in <TextBlock FontWeight="Bold">App.xaml</TextBlock> to activate a supported theme:<LineBreak/><LineBreak/>
         <TextBlock FontWeight="Bold">DropDownButtonLib</TextBlock>/Themes/Generic.xaml and<LineBreak/>
         <TextBlock FontWeight="Bold">DropDownButtonLib</TextBlock>/Themes/MetroDark.xaml<LineBreak/>
-        <TextBlock FontWeight="Bold">DropDownButtonLib</TextBlock>/Themes/MetroLight.xaml<LineBreak/><LineBreak/>
+        <TextBlock FontWeight="Bold">DropDownButtonLib</TextBlock>/Themes/MetroLight.xaml<LineBreak/>
+          <LineBreak/>
+        Note: The Generic.xaml theme is the same as the MetroLight.xaml theme.<LineBreak/>
+          <LineBreak/>
         Note: The Generic.xaml theme does not need explicit activation<LineBreak/>
         because WPF loads it by default when nothings else was defined.<LineBreak/>
       </TextBlock>

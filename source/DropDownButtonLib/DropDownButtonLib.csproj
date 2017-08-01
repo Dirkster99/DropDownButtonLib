@@ -124,12 +124,6 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <Page Include="Themes\GenericBrushes.xaml">
-      <Generator>MSBuild:Compile</Generator>
-      <SubType>Designer</SubType>
-    </Page>
-  </ItemGroup>
-  <ItemGroup>
     <Page Include="Themes\MetroDark.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -154,9 +148,6 @@
   <ItemGroup>
     <None Include="ClassDiagram1.cd" />
     <None Include="Readme.md" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Microsoft Public License.txt" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
