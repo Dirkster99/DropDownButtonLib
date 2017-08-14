@@ -11,24 +11,32 @@ Extended WPF Toolkit™ Community Edition:https://wpftoolkit.codeplex.com/ from 
 It includes some bugfixes to the original implementation and extends the original controls with a:
 
 - DropDownButton, SplitButton
-
 with:
-
 - DropDownItemsButton, SplitItemsButton
 
 controls. The original implementation (DropDownButton, SplitButton) can be used to drop down and interact with single drop down items, while the extended controls (DropDownItemsButton, SplittItemsButton) are based on an ItemsControl and can thus be with multiple drop down items (in a similar fashion as a standard WPF ComboBox or ListBox control).
 
 ## DropDownButton
 <img src="https://github.com/Dirkster99/Docu/blob/master/DropDownButtonLib/DropDownButton.png"/>
+The DropDown button shows a drop down element that gives users a way of editing something and confirming it with Cancel or OK (this works similar to a dialog but in a drop down scenario).
 
 ## SplitButton
 <img src="https://github.com/Dirkster99/Docu/blob/master/DropDownButtonLib/SplitButton.png"/>
+The Split button has a drop down section and a button.
+The drop down element gives you a way of editing/selecting in a similar scenario as in the DropDownButton shown above, while the button itself can be used like a shortcut that refers to the last selected element.
 
 ## DropDownItemsButton
 <img src="https://github.com/Dirkster99/Docu/blob/master/DropDownButtonLib/DropDownItemsButton.png"/>
+The DropDown button shows a drop down element which can be used to select one element out of many. This could also be implemented with the DropDownButton control but it is much easier with this control since it already contains an ItemsControl inside the drop down element.
 
 ## SplitItemsButton
 <img src="https://github.com/Dirkster99/Docu/blob/master/DropDownButtonLib/SplitItemsButton.png"/>
+The Split button has a drop down section and a button.
+The drop down element gives you a way of selecting from among many elements while the button itself can be used like a shortcut that refers to the last selected element.
+
+## Demo Application
+<img src="https://github.com/Dirkster99/Docu/blob/master/DropDownButtonLib/MainTestWindow.png"/>
+This is a screenshot of the MainWindow of the included Test Application. The complete implementation is MVVM compliant and all controls are fully themeable (look-less controls).
 
 ## Theming
 
