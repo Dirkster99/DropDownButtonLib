@@ -18,6 +18,18 @@ with:
 
 controls. The original implementation (DropDownButton, SplitButton) can be used to drop down and interact with single drop down items, while the extended controls (DropDownItemsButton, SplittItemsButton) are based on an ItemsControl and can thus be with multiple drop down items (in a similar fashion as a standard WPF ComboBox or ListBox control).
 
+## DropDownButton
+<img src="https://github.com/Dirkster99/Docu/blob/master/DropDownButtonLib/DropDownButton.png"/>
+
+## SplitButton
+<img src="https://github.com/Dirkster99/Docu/blob/master/DropDownButtonLib/SplitButton.png"/>
+
+## DropDownItemsButton
+<img src="https://github.com/Dirkster99/Docu/blob/master/DropDownButtonLib/DropDownItemsButton.png"/>
+
+## SplitItemsButton
+<img src="https://github.com/Dirkster99/Docu/blob/master/DropDownButtonLib/SplitItemsButton.png"/>
+
 ## Theming
 
 Load *Light* or *Dark* brush resources in you resource dictionary to take advantage of existing definitions.
