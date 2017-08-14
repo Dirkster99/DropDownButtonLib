@@ -1,6 +1,6 @@
 [![Release](https://img.shields.io/github/release/Dirkster99/DropDownButtonLib.svg)](https://github.com/Dirkster99/DropDownButtonLib/releases/latest)
 [![NuGet](https://img.shields.io/nuget/dt/Dirkster.DropDownButtonLib.svg)](http://nuget.org/packages/Dirkster.DropDownButtonLib)
-# Overview
+<h1><img src="https://github.com/Dirkster99/Docu/blob/master/DropDownButtonLib/DropDownButtonLibLogo.png" height="64"/>&nbsp;Overview</h1>
 The DropDownButtonLib project supplies MVVM/WPF drop down controls that are based on a button. 
 
 There are sample screenshot on the Codeplex site from were this project is migrated from:
