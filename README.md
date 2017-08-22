@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ie3dx7fa4vujwhgs?svg=true)](https://ci.appveyor.com/project/Dirkster99/dropdownbuttonlib)
 [![Release](https://img.shields.io/github/release/Dirkster99/DropDownButtonLib.svg)](https://github.com/Dirkster99/DropDownButtonLib/releases/latest)
 [![NuGet](https://img.shields.io/nuget/dt/Dirkster.DropDownButtonLib.svg)](http://nuget.org/packages/Dirkster.DropDownButtonLib)
 <h1><img src="https://github.com/Dirkster99/Docu/blob/master/DropDownButtonLib/DropDownButtonLibLogo.png" height="64"/>&nbsp;Overview</h1>
