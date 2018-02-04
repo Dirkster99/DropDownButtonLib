@@ -23,6 +23,7 @@
 
     <!-- Button -->
     <SolidColorBrush x:Key="{x:Static reskeys:ResourceKeys.ButtonNormalOuterBorderKey}" Color="#FF333333" options:Freeze="true" />
+    <SolidColorBrush x:Key="{x:Static reskeys:ResourceKeys.ButtonNormalInnerBorderKey}" Color="#FF000000" options:Freeze="true" />
     <SolidColorBrush x:Key="{x:Static reskeys:ResourceKeys.ButtonNormalBackgroundKey}" Color="#FF333333" options:Freeze="true" />
 
     <SolidColorBrush x:Key="{x:Static reskeys:ResourceKeys.ButtonMouseOverOuterBorderKey}" Color="#FF333333" options:Freeze="true" />
