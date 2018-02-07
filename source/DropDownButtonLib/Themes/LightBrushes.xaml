@@ -29,6 +29,7 @@
     <SolidColorBrush x:Key="{x:Static reskeys:ResourceKeys.ButtonMouseOverBackgroundKey}" Color="#FFefefef" options:Freeze="true" />
 
     <SolidColorBrush x:Key="{x:Static reskeys:ResourceKeys.ButtonPressedOuterBorderKey}" Color="#FF2C628B" options:Freeze="true" />
+    <SolidColorBrush x:Key="{x:Static reskeys:ResourceKeys.ButtonPressedInnerBorderKey}" Color="#FFFFFFFF" options:Freeze="true" />
 
     <SolidColorBrush x:Key="{x:Static reskeys:ResourceKeys.ButtonPressedBackgroundKey}"
                      Color="{DynamicResource {x:Static reskeys:ResourceKeys.ControlAccentColorKey}}"

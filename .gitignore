@@ -2,6 +2,7 @@
 01_Nuget/
 debug/
 release/
+source/.vs
 build/
 bin/
 obj/

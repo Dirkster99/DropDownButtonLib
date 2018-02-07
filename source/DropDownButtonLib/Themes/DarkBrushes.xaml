@@ -33,6 +33,8 @@
                      Color="{DynamicResource {x:Static reskeys:ResourceKeys.ControlAccentColorKey}}"
                      options:Freeze="true" />
 
+    <SolidColorBrush x:Key="{x:Static reskeys:ResourceKeys.ButtonPressedInnerBorderKey}" Color="#FF333333" options:Freeze="true" />
+
     <SolidColorBrush x:Key="{x:Static reskeys:ResourceKeys.ButtonPressedBackgroundKey}"
                      Color="{DynamicResource {x:Static reskeys:ResourceKeys.ControlAccentColorKey}}"
                      options:Freeze="true" />
