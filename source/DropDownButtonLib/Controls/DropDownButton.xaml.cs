@@ -432,7 +432,8 @@ namespace DropDownButtonLib.Controls
     /// <param name="e"></param>
     private void OnMouseDownOutsideCapturedElement(object sender, MouseButtonEventArgs e)
     {
-      this.CloseDropDown(false);
+      if( !IsMouseOver )
+        CloseDropDown( true );
     }
 
     /// <summary>
