@@ -1,6 +1,9 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/ie3dx7fa4vujwhgs?svg=true)](https://ci.appveyor.com/project/Dirkster99/dropdownbuttonlib)
 [![Release](https://img.shields.io/github/release/Dirkster99/DropDownButtonLib.svg)](https://github.com/Dirkster99/DropDownButtonLib/releases/latest)
 [![NuGet](https://img.shields.io/nuget/dt/Dirkster.DropDownButtonLib.svg)](http://nuget.org/packages/Dirkster.DropDownButtonLib)
+
+![Net4](https://badgen.net/badge/Framework/.Net&nbsp;4/blue) ![NetCore3](https://badgen.net/badge/Framework/NetCore&nbsp;3/blue)
+
 <h1><img src="https://github.com/Dirkster99/Docu/blob/master/DropDownButtonLib/DropDownButtonLibLogo.png" height="64"/>&nbsp;Overview</h1>
 The DropDownButtonLib project supplies MVVM/WPF drop down controls that are based on a button. 
 
