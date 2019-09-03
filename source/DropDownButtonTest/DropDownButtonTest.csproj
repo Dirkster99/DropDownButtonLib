@@ -124,7 +124,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DropDownButtonLib\DropDownButtonLib.csproj">
-      <Project>{386cfc32-9bb3-4f42-9164-4900e099e93c}</Project>
+      <Project>{c9b8c80d-60cb-44ce-8a22-06010c62fd74}</Project>
       <Name>DropDownButtonLib</Name>
     </ProjectReference>
   </ItemGroup>

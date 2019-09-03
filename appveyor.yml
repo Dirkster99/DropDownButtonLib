@@ -1,0 +1,24 @@
+version: 1.1.{build}
+
+configuration: Release
+
+platform: Any CPU
+
+image: Visual Studio 2019 Preview
+
+install:
+  - cmd: choco install dotnetcore-sdk --pre
+  
+before_build:
+  - cmd: nuget restore source/DropDownButtonTest.sln
+
+build:
+  verbosity: minimal
+
+artifacts:
+
+- path: source\DropDownButtonTest\bin\Release
+  name: DropDownButtonTest
+
+- path: source\DropDownButtonLib\bin\Release
+  name: DropDownButtonLib
